@@ -1,0 +1,39 @@
+* {
+  font-family: 'Roboto';
+  margin: 0px;
+}
+.letters-calculator-container {
+  height: 100vh;
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.letters-caluclate {
+  color: white;
+}
+.letters-calculator {
+  height: 30vh;
+}
+.input-text {
+  font-size: 12px;
+  color: white;
+  margin-top: 10px;
+}
+.phrase {
+  border: 2px solid white;
+  width: 80%;
+  background-color: transparent;
+  margin-top: 5px;
+}
+.phrases-count-button {
+  margin-top: 5px;
+  border-width: 0px;
+  height: 5vh;
+  color: #219a6f;
+  width: 180px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: bold;
+}
